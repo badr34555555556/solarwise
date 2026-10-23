@@ -1,0 +1,16 @@
+[project]
+name = "solarwise"
+version = "1.0.0"
+description = "An educational SDG 7 solar savings and clean energy awareness tool."
+requires-python = ">=3.12"
+dependencies = [
+    "streamlit>=1.50,<2",
+    "plotly>=6.3,<7",
+]
+
+[dependency-groups]
+dev = ["pytest>=8.4,<10"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]

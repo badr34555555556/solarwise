@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-labelledby="title desc">
+  <title id="title">A sunny solar-powered neighbourhood</title>
+  <desc id="desc">An illustration of two houses with rooftop solar panels, trees and a sun, representing household and community clean energy.</desc>
+  <defs>
+    <linearGradient id="sky" x2="0" y2="1"><stop stop-color="#e3eedb"/><stop offset="1" stop-color="#f3f4df"/></linearGradient>
+    <pattern id="panels" width="35" height="22" patternUnits="userSpaceOnUse"><rect width="35" height="22" fill="#234c58"/><path d="M0 0H35V22H0Z M17.5 0V22 M0 11H35" fill="none" stroke="#8dc4c1" stroke-width="1"/></pattern>
+  </defs>
+  <rect x="5" y="5" width="590" height="410" rx="100" fill="url(#sky)"/>
+  <circle cx="442" cy="102" r="49" fill="#f4c94e"/>
+  <g stroke="#d7ad39" stroke-width="3" stroke-linecap="round"><path d="M442 34V20 M442 184V171 M374 102H360 M524 102H510 M394 54L384 44 M490 150L500 160 M490 54L500 44 M394 150L384 160"/></g>
+  <g fill="#fff" opacity=".78"><path d="M57 102c-2-15 16-27 31-17 4-25 43-27 50-3 21-3 35 13 28 29H57Z"/><path d="M265 53c-1-12 13-22 25-14 4-20 35-21 40-2 17-2 29 11 23 24h-88Z"/></g>
+  <path d="M16 319Q115 258 230 299T590 283V382Q307 437 16 370Z" fill="#bfd3a9"/>
+  <path d="M33 365Q214 316 583 359" fill="none" stroke="#97b784" stroke-width="2"/>
+  <path d="M263 358L229 411H405L362 353Z" fill="#e7dfc2"/>
+  <g>
+    <path d="M136 218L271 148L410 218V341H136Z" fill="#fffcf0"/>
+    <path d="M271 148L410 218V341H329V219Z" fill="#e2e6cf"/>
+    <path d="M111 221L258 128L423 218L405 234L258 158L128 236Z" fill="#43725c"/>
+    <path d="M155 210L257 148L359 205L252 221Z" fill="url(#panels)" stroke="#d2e5da" stroke-width="4"/>
+    <rect x="176" y="257" width="53" height="55" rx="3" fill="#94c2c3"/>
+    <path d="M202 257V312M176 284H229" stroke="#f9f6e8" stroke-width="4"/>
+    <rect x="263" y="265" width="39" height="76" rx="3" fill="#cdad6a"/>
+    <circle cx="292" cy="305" r="2.5" fill="#496846"/>
+    <rect x="349" y="254" width="33" height="42" rx="3" fill="#83aeae"/>
+    <path d="M365 254V296" stroke="#f9f6e8" stroke-width="3"/>
+    <path d="M128 341H416" stroke="#638258" stroke-width="4"/>
+  </g>
+  <g>
+    <path d="M405 275L472 233L543 275V343H405Z" fill="#f8efd7"/>
+    <path d="M472 233L543 275V343H499V276Z" fill="#e6d9b5"/>
+    <path d="M391 276L470 222L552 274L541 285L470 245L402 287Z" fill="#658472"/>
+    <path d="M416 267L469 234L514 261L460 276Z" fill="url(#panels)" stroke="#d2e5da" stroke-width="3"/>
+    <rect x="421" y="298" width="25" height="25" rx="2" fill="#94c2c3"/>
+    <rect x="463" y="300" width="22" height="43" rx="2" fill="#b59b63"/>
+  </g>
+  <g stroke="#456b4f" stroke-width="7" stroke-linecap="round"><path d="M81 337V226 M81 283L58 264 M81 298L103 278 M551 354V308"/></g>
+  <g fill="#729a63"><ellipse cx="80" cy="221" rx="39" ry="51"/><ellipse cx="57" cy="251" rx="31" ry="36"/><ellipse cx="103" cy="248" rx="30" ry="38"/><ellipse cx="550" cy="296" rx="23" ry="34"/></g>
+  <g fill="#456b4f"><path d="M105 354c-10-33 15-42 22-18 7-28 30-16 21 18Z"/><path d="M371 354c-7-24 12-31 18-13 4-22 24-12 17 13Z"/></g>
+  <g fill="#f4c94e"><circle cx="119" cy="349" r="4"/><circle cx="142" cy="345" r="4"/><circle cx="388" cy="348" r="4"/></g>
+  <rect x="31" y="132" width="159" height="45" rx="22" fill="#fffdf3" stroke="#dce4d4"/>
+  <path d="M57 144L49 157H58L53 168L68 152H59L64 144Z" fill="#b68a1c"/>
+  <text x="79" y="160" fill="#244d3e" font-size="13" font-family="Arial,sans-serif" font-weight="600">A brighter everyday</text>
+</svg>
